@@ -4,7 +4,13 @@
 
 ---
 # indexdoc-converter 文档转换工具库
-**indexdoc-converter** 是一款基于 Python 开发的文档转换工具库，核心功能为将主流办公文档、网页文件高效转换为 Markdown 格式。各类型文件支持格式如下：Word 文档支持**.docx**；Excel 类表格文档支持**.xlsx、.xls、.ods、.csv、.tsv**；网页文件支持**.html、.mhtml、.htm 及网页url**；PPT 演示文档支持**.pptx**。该工具库现已发布至 PyPI（Python Package Index），可通过 pip 包管理工具快速安装并投入使用。
+**indexdoc-converter** 是一款基于 Python 开发的文档转换工具库，核心功能为将主流办公文档、网页文件高效转换为 Markdown 格式。各类型文件支持格式如下：
+- Word 文档支持 **.docx** ；
+- Excel 类表格文档支持 **.xlsx、.xls、.ods、.csv、.tsv** ；
+- 网页文件支持 **.html、.mhtml、.htm 及网页url** ；
+- PPT 演示文档支持 **.pptx** 。
+
+该工具库现已发布至 PyPI（Python Package Index），可通过 pip 包管理工具快速安装并投入使用。
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)  [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-converter?style=social)](https://github.com/indexdoc/indexdoc-converter.git) 
 
