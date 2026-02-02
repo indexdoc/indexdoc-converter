@@ -9,7 +9,6 @@
 - Excel 类表格文档支持 **.xlsx、.xls、.ods、.csv、.tsv** ；
 - 网页文件支持 **.html、.mhtml、.htm 及网页url** ；
 - PPT 演示文档支持 **.pptx** 。
-
 该工具库现已发布至 PyPI（Python Package Index），可通过 pip 包管理工具快速安装并投入使用。
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)  [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-converter?style=social)](https://github.com/indexdoc/indexdoc-converter.git) 
@@ -41,7 +40,7 @@ indexdoc-converter/          # 项目根目录
 ### 使用示例
 
 ```bash
-#引用 注意应用为 indexdoc_converter 而不是 indexdoc-converter
+#引用 注意引用为 indexdoc_converter 而不是 indexdoc-converter
 from indexdoc_converter.docx_to_md import convert_docx_to_md
 from indexdoc_converter.excel_to_md import TableToMarkdown
 from indexdoc_converter.html_to_md import convert_to_md
@@ -87,6 +86,29 @@ from indexdoc_converter.pptx_to_md import pptx_to_md
     md = convert_to_md(html, '../tmp/测试html.md')
     # md = mhtml_to_markdown(mhtml)
 ```
+###  Word文档
+#### 原文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Word1.png)
+#### 转换后文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Word2.png)
+
+###  Excel文档
+#### 原文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel1.png)
+#### 转换后文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel2.png)
+
+###  ppt文档
+#### 原文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt1.png)
+#### 转换后文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt2.png)
+
+###  网页文件
+#### 原文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/html1.png)
+#### 转换后文档
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/html2.png)
 
 ##  二次开发
 
