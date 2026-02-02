@@ -1,5 +1,4 @@
 import os
-import sys
 import time
 import warnings
 from pathlib import Path
@@ -8,7 +7,7 @@ from typing import List, Dict, Tuple
 import numpy as np
 import pandas as pd
 
-from utils import FileUtil
+from indexdoc_converter.utils import FileUtil
 
 pd.set_option('future.no_silent_downcasting', True)
 

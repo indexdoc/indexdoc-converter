@@ -10,7 +10,7 @@ from PIL import Image
 from readability import Document
 import html2text
 
-from utils.img_to_base64 import Image2Base64
+from indexdoc_converter.utils.img_to_base64 import Image2Base64
 
 # ============ 图片下载和处理类 ============
 class ImageDownloader:

@@ -10,20 +10,20 @@ with open("requirements.txt", "r", encoding="utf-8") as f:
     requirements = [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 setup(
-    name="indexdoc-converter",          # 你的工具名称（PyPI上唯一）
-    version="0.1.0",                # 版本号（遵循语义化版本）
+    name="indexdoc_converter",          # 你的工具名称（PyPI上唯一）
+    version="0.2.2",                # 版本号（遵循语义化版本）
     description="可以将Word文档(仅.docx)、Excel表格、Html网页、PPt文件 转化为Markdown文件。",
     long_description=README,
     long_description_content_type="text/markdown",
     author="杭州智予数信息技术有限公司",
     author_email="indexdoc@qq.com",
-    url="你的项目仓库地址（如GitHub）",  # 可选
+    url="https://github.com/indexdoc/indexdoc-converter.git",  # 可选
     packages=find_packages(),       # 自动发现所有包
     install_requires=requirements,  # 关键：指定安装时需要自动下载的依赖
-    python_requires=">=3.7",        # 指定兼容的Python版本
-    entry_points={                  # 可选：配置命令行入口（如直接用your_tool运行）
-        "console_scripts": [
-            "your_tool = your_tool_name.main:main",
-        ],
-    },
+    python_requires=">=3.10",        # 指定兼容的Python版本
+    # entry_points={                  # 可选：配置命令行入口（如直接用your_tool运行）
+    #     "console_scripts": [
+    #         "your_tool = your_tool_name.main:main",
+    #     ],
+    # },
 )
