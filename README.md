@@ -116,7 +116,7 @@ from indexdoc_converter.pptx_to_md import pptx_to_md
 
 ```bash
 #源码地址
-https://github.com/indexdoc/indexdoc-batch-generator.git
+https://github.com/indexdoc/indexdoc-converter.git
 ```
 ```bash
 #快速安装依赖库

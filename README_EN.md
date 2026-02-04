@@ -119,7 +119,7 @@ md = convert_to_md(html, '../tmp/test_html.md')
 
 ```bash
 # Source code repository
-https://github.com/indexdoc/indexdoc-batch-generator.git
+https://github.com/indexdoc/indexdoc-converter.git
 ```
 
 ```bash
