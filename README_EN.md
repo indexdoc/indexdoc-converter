@@ -12,7 +12,7 @@
 
 This library has been published to PyPI (Python Package Index) and can be quickly installed and used via the `pip` package manager.
 
-[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)  [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-converter?style=social)](https://github.com/indexdoc/indexdoc-converter.git)
+[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)  [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-converter?style=social)](https://github.com/indexdoc/indexdoc-converter.git)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Library Usage
 ```bash
