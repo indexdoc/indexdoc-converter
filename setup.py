@@ -11,7 +11,7 @@ with open("requirements.txt", "r", encoding="utf-8") as f:
 
 setup(
     name="indexdoc_converter",          # 你的工具名称（PyPI上唯一）
-    version="0.2.2",                # 版本号（遵循语义化版本）
+    version="0.2.5",                # 版本号（遵循语义化版本）
     description="可以将Word文档(仅.docx)、Excel表格、Html网页、PPt文件 转化为Markdown文件。",
     long_description=README,
     long_description_content_type="text/markdown",
