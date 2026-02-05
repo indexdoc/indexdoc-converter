@@ -9,6 +9,7 @@
 - Excel 类表格文档支持 **.xlsx、.xls、.ods、.csv、.tsv** ；
 - 网页文件支持 **.html、.mhtml、.htm 及网页url** ；
 - PPT 演示文档支持 **.pptx** 。
+
 该工具库现已发布至 PyPI（Python Package Index），可通过 pip 包管理工具快速安装并投入使用。
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)  [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-converter?style=social)](https://github.com/indexdoc/indexdoc-converter.git)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
