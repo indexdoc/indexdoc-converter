@@ -89,27 +89,27 @@ from indexdoc_converter.pptx_to_md import pptx_to_md
 ```
 ###  Word文档
 #### 原文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Word1.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Word1.png)
 #### 转换后文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Word2.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Word2.png)
 
 ###  Excel文档
 #### 原文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel1.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Excel1.png)
 #### 转换后文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel2.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Excel2.png)
 
 ###  ppt文档
 #### 原文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt1.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/ppt1.png)
 #### 转换后文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt2.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/ppt2.png)
 
 ###  网页文件
 #### 原文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/html1.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/html1.png)
 #### 转换后文档
-![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/html2.png)
+![主页1](https://github.com/indexdoc/indexdoc-converter/raw/main/README/html2.png)
 
 ##  二次开发
 

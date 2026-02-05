@@ -92,27 +92,27 @@ md = convert_to_md(html, '../tmp/test_html.md')
 
 ### Word Document
 #### Original Document
-![Original Word Document](https://github.com/indexdoc/indexdoc-converter/raw/main/Word1.png)
+![Original Word Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Word1.png)
 #### Converted Document
-![Converted Word Document](https://github.com/indexdoc/indexdoc-converter/raw/main/Word2.png)
+![Converted Word Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Word2.png)
 
 ### Excel Document
 #### Original Document
-![Original Excel Document](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel1.png)
+![Original Excel Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Excel1.png)
 #### Converted Document
-![Converted Excel Document](https://github.com/indexdoc/indexdoc-converter/raw/main/Excel2.png)
+![Converted Excel Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/Excel2.png)
 
 ### PPT Document
 #### Original Document
-![Original PPT Document](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt1.png)
+![Original PPT Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/ppt1.png)
 #### Converted Document
-![Converted PPT Document](https://github.com/indexdoc/indexdoc-converter/raw/main/ppt2.png)
+![Converted PPT Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/ppt2.png)
 
 ### Web File
 #### Original Document
-![Original Web Document](https://github.com/indexdoc/indexdoc-converter/raw/main/html1.png)
+![Original Web Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/html1.png)
 #### Converted Document
-![Converted Web Document](https://github.com/indexdoc/indexdoc-converter/raw/main/html2.png)
+![Converted Web Document](https://github.com/indexdoc/indexdoc-converter/raw/main/README/html2.png)
 
 ## Secondary Development
 - Python 3.10 or higher
