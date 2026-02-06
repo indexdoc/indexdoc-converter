@@ -3,15 +3,16 @@
     <strong style="color: #24292f;">简体中文</strong> 
     | <a href="README_EN.md" style="color: #0969da; text-decoration: none;">English</a>
   </div>
-  <div style="font-size: 14px; color: #57606a; padding: 2px 0;">
-    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">核心仓库</span>
-    <a href="https://github.com/indexdoc/indexdoc-batch-generator" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-batch-generator（批量文档助手）</a>
-    <a href="https://github.com/indexdoc/indexdoc-model-to-code" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-model-to-code（代码生成器 / CodeAsst）</a>
-    <a href="https://github.com/indexdoc/indexdoc-ai-offline" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-ai-offline（本地文档AI助手）</a>
-    <a href="https://github.com/indexdoc/indexdoc-editor" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-editor（Markdown编辑器）</a>
-    <a href="https://github.com/indexdoc/indexdoc-vector" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-vector（向量数据库）</a>
-  </div>
 </div>
+  <div style="font-size: 14px; color: #57606a; padding: 2px 0; text-align: left;">
+    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">核心仓库</span> <br/>
+    <a href="https://github.com/indexdoc/indexdoc-batch-generator" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-batch-generator（批量文档助手）</a><br/>
+    <a href="https://github.com/indexdoc/indexdoc-model-to-code" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-model-to-code（代码生成器 / CodeAsst）</a><br/>
+    <a href="https://github.com/indexdoc/indexdoc-ai-offline" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-ai-offline（本地文档AI助手）</a><br/>
+    <a href="https://github.com/indexdoc/indexdoc-editor" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-editor（Markdown编辑器）</a><br/>
+    <a href="https://github.com/indexdoc/indexdoc-vector" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-vector（向量数据库）</a><br/>
+  </div>
+
 
 ---
 # indexdoc-converter 文档转换工具库
